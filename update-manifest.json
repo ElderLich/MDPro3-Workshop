@@ -1,0 +1,14 @@
+{
+  "version": "1.4.2",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases",
+  "message": "MDPro3 v1.4.2 is the current public version.",
+  "notes": "Initial public manifest for the in-game update check.",
+  "downloads": [
+    {
+      "platform": "default",
+      "label": "Release page",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases",
+      "message": "Open the public MDPro3 release page."
+    }
+  ]
+}
