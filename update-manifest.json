@@ -1,14 +1,19 @@
 {
-  "version": "1.4.2",
-  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases",
-  "message": "MDPro3 v1.4.2 is the current public version.",
-  "notes": "Initial public manifest for the in-game update check.",
+  "version": "1.4.3",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.3",
+  "message": "MDPro3 1.4.3 is available.",
+  "notes": "1.Initial public manifest for the in-game update check.\n2. Fixed updater flow.\n 3.Improved patch install behavior.\n 4. Added 200 Coin Miners.",
   "downloads": [
     {
-      "platform": "default",
-      "label": "Release page",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases",
-      "message": "Open the public MDPro3 release page."
+      "platform": "windows",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-win-patch-1.4.2-to-1.4.3.zip",
+      "label": "Windows patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.2",
+      "toVersion": "1.4.3"
     }
-  ]
+  ],
+  "platformVersions": {
+    "windows": "1.4.3"
+  }
 }
