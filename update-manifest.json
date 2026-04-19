@@ -1,7 +1,7 @@
 {
   "version": "1.4.4",
-  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.4",
-  "message": "MDPro3 1.4.4 is available.",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.3",
+  "message": "MDPro3 1.4.3 is available.",
   "notes": "1.Fixed Related Cards.\n2. Added 400 more Coin Miners.",
   "downloads": [
     {
@@ -19,9 +19,32 @@
       "packageKind": "patch",
       "fromVersion": "1.4.3",
       "toVersion": "1.4.4"
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-android-patch-1.4.2-to-1.4.3.zip",
+      "label": "Android data patch",
+      "packageKind": "patch",
+      "packageTarget": "data",
+      "fromVersion": "1.4.2",
+      "toVersion": "1.4.3",
+      "groupId": "android-1.4.3",
+      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3_V1.4.3.apk",
+      "label": "Android app package",
+      "packageKind": "patch",
+      "packageTarget": "app",
+      "fromVersion": "1.4.2",
+      "toVersion": "1.4.3",
+      "groupId": "android-1.4.3",
+      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
     }
   ],
   "platformVersions": {
-    "windows": "1.4.4"
+    "windows": "1.4.4",
+    "android": "1.4.3"
   }
 }
