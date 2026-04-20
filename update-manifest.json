@@ -41,10 +41,20 @@
       "toVersion": "1.4.3",
       "groupId": "android-1.4.3",
       "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
+    },
+    {
+      "platform": "linux",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-linux-patch-1.4.2-to-1.4.3.zip",
+      "label": "Linux patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.2",
+      "toVersion": "1.4.3",
+      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
     }
   ],
   "platformVersions": {
     "windows": "1.4.4",
-    "android": "1.4.3"
+    "android": "1.4.3",
+    "linux": "1.4.3"
   }
 }
