@@ -53,7 +53,7 @@
     },
     {
       "platform": "macos",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-macos-patch-1.4.2-to-1.4.3.zip",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-macos-patch-1.4.2-to-1.4.3.tar.gz",
       "label": "macOS patch",
       "packageKind": "patch",
       "fromVersion": "1.4.2",
