@@ -1,7 +1,7 @@
 {
   "version": "1.4.4",
-  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.3",
-  "message": "MDPro3 1.4.3 is available.",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.4",
+  "message": "MDPro3 1.4.4 is available.",
   "notes": "1.Fixed Related Cards.\n2. Added 400 more Coin Miners.",
   "downloads": [
     {
@@ -59,12 +59,21 @@
       "fromVersion": "1.4.2",
       "toVersion": "1.4.3",
       "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
+    },
+    {
+      "platform": "macos",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4/MDPro3-macos-patch-1.4.3-to-1.4.4.tar.gz",
+      "label": "macOS patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.3",
+      "toVersion": "1.4.4",
+      "message": "MDPro3 1.4.4 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
     }
   ],
   "platformVersions": {
     "windows": "1.4.4",
     "android": "1.4.3",
     "linux": "1.4.3",
-    "macos": "1.4.3"
+    "macos": "1.4.4"
   }
 }
