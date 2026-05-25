@@ -6,72 +6,6 @@
   "downloads": [
     {
       "platform": "windows",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-win-patch-1.4.2-to-1.4.3.zip",
-      "label": "Windows patch",
-      "packageKind": "patch",
-      "fromVersion": "1.4.2",
-      "toVersion": "1.4.3"
-    },
-    {
-      "platform": "windows",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4/MDPro3-win-patch-1.4.3-to-1.4.4.zip",
-      "label": "Windows patch",
-      "packageKind": "patch",
-      "fromVersion": "1.4.3",
-      "toVersion": "1.4.4",
-      "message": "MDPro3 1.4.4 is available.\n\n1.Update Related Cards for Chaos Origins.\n2. Fixed the 2 missmatched GMX cards for each Language.\n3. Fixed the Forest Field.\n4. Fixed the missmatched Cut-Ins for BWED, DMG and Red-Eyes.\n5. Fixed Pendulum Card Materials."
-    },
-    {
-      "platform": "android",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-android-patch-1.4.2-to-1.4.3.zip",
-      "label": "Android data patch",
-      "packageKind": "patch",
-      "packageTarget": "data",
-      "fromVersion": "1.4.2",
-      "toVersion": "1.4.3",
-      "groupId": "android-1.4.3",
-      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
-    },
-    {
-      "platform": "android",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3_V1.4.3.apk",
-      "label": "Android app package",
-      "packageKind": "patch",
-      "packageTarget": "app",
-      "fromVersion": "1.4.2",
-      "toVersion": "1.4.3",
-      "groupId": "android-1.4.3",
-      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
-    },
-    {
-      "platform": "linux",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-linux-patch-1.4.2-to-1.4.3.zip",
-      "label": "Linux patch",
-      "packageKind": "patch",
-      "fromVersion": "1.4.2",
-      "toVersion": "1.4.3",
-      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
-    },
-    {
-      "platform": "macos",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.3/MDPro3-macos-patch-1.4.2-to-1.4.3.tar.gz",
-      "label": "macOS patch",
-      "packageKind": "patch",
-      "fromVersion": "1.4.2",
-      "toVersion": "1.4.3",
-      "message": "MDPro3 1.4.3 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
-    },
-    {
-      "platform": "macos",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4/MDPro3-macos-patch-1.4.3-to-1.4.4.tar.gz",
-      "label": "macOS patch",
-      "packageKind": "patch",
-      "fromVersion": "1.4.3",
-      "toVersion": "1.4.4",
-      "message": "MDPro3 1.4.4 is available.\n\n1.Fixed Related Cards.\n2. Added 400 more Coin Miners."
-    },
-    {
-      "platform": "windows",
       "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4.1/MDPro3-win-patch-1.4.4-to-1.4.4.1.zip",
       "label": "Windows patch",
       "packageKind": "patch",
@@ -82,8 +16,15 @@
   ],
   "platformVersions": {
     "windows": "1.4.4.1",
-    "android": "1.4.3",
-    "linux": "1.4.3",
+    "android": "1.4.4",
+    "linux": "1.4.4",
+    "macos": "1.4.4"
+  },
+  "platformBaseVersions": {
+    "default": "1.4.4",
+    "windows": "1.4.4",
+    "android": "1.4.4",
+    "linux": "1.4.4",
     "macos": "1.4.4"
   }
 }
