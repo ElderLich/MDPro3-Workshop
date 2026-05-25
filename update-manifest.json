@@ -12,11 +12,33 @@
       "fromVersion": "1.4.4",
       "toVersion": "1.4.4.1",
       "message": "MDPro3 1.4.4.1 is available.\n\n1.Update Related Cards for Chaos Origins.\n2. Fixed the 2 missmatched GMX cards for each Language.\n3. Fixed the Forest Field.\n4. Fixed the missmatched Cut-Ins for BWED, DMG and Red-Eyes.\n5. Fixed Pendulum Card Materials."
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4.1/MDPro3-android-patch-1.4.4-to-1.4.4.1.zip",
+      "label": "Android data patch",
+      "packageKind": "patch",
+      "packageTarget": "data",
+      "fromVersion": "1.4.4",
+      "toVersion": "1.4.4.1",
+      "groupId": "android-1.4.4.1",
+      "message": "MDPro3 1.4.4.1 is available.\n\n1.Update Related Cards for Chaos Origins.\n2. Fixed the 2 missmatched GMX cards for each Language.\n3. Fixed the Forest Field.\n4. Fixed the missmatched Cut-Ins for BWED, DMG and Red-Eyes.\n5. Fixed Pendulum Card Materials."
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4.1/MDPro3_V1.4.4.1.apk",
+      "label": "Android app package",
+      "packageKind": "patch",
+      "packageTarget": "app",
+      "fromVersion": "1.4.4",
+      "toVersion": "1.4.4.1",
+      "groupId": "android-1.4.4.1",
+      "message": "MDPro3 1.4.4.1 is available.\n\n1.Update Related Cards for Chaos Origins.\n2. Fixed the 2 missmatched GMX cards for each Language.\n3. Fixed the Forest Field.\n4. Fixed the missmatched Cut-Ins for BWED, DMG and Red-Eyes.\n5. Fixed Pendulum Card Materials."
     }
   ],
   "platformVersions": {
     "windows": "1.4.4.1",
-    "android": "1.4.4",
+    "android": "1.4.4.1",
     "linux": "1.4.4",
     "macos": "1.4.4"
   },
