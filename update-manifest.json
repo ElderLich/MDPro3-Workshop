@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4.1",
-  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.4.1",
-  "message": "MDPro3 1.4.4.1 is available.",
-  "notes": "1.Update Related Cards for Chaos Origins.\n2. Fixed the 2 missmatched GMX cards for each Language.\n3. Fixed the Forest Field.\n4. Fixed the missmatched Cut-Ins for BWED, DMG and Red-Eyes.\n5. Fixed Pendulum Card Materials.",
+  "version": "1.4.4.2",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.4.2",
+  "message": "MDPro3 1.4.4.2 is available.",
+  "notes": "1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\n8. Update All Sound Files with new ones from MD.\n9. Fix Key Card Climax (By Reinen)\n10. Fixed a bug where you couldn't select any cards during the Popup.\n11. Fixed a bug where you could start a Match Alone, now it requires both players.\n12. Fixed a bug where you could spam buttons and the other menu will bleed out.\n13. Implement In-Duel Deck Browser, you can check in",
   "downloads": [
     {
       "platform": "windows",
@@ -52,10 +52,19 @@
       "fromVersion": "1.4.4",
       "toVersion": "1.4.4.1",
       "message": "MDPro3 1.4.4.1 is available.\n\n1.Update Related Cards for Chaos Origins.\n2. Fixed the 2 missmatched GMX cards for each Language.\n3. Fixed the Forest Field.\n4. Fixed the missmatched Cut-Ins for BWED, DMG and Red-Eyes.\n5. Fixed Pendulum Card Materials."
+    },
+    {
+      "platform": "windows",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.4.2/MDPro3-win-patch-1.4.4.1-to-1.4.4.2.zip",
+      "label": "Windows patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.4.1",
+      "toVersion": "1.4.4.2",
+      "message": "MDPro3 1.4.4.2 is available.\n\n1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\n8. Update All Sound Files with new ones from MD.\n9. Fix Key Card Climax (By Reinen)\n10. Fixed a bug where you couldn't select any cards during the Popup.\n11. Fixed a bug where you could start a Match Alone, now it requires both players.\n12. Fixed a bug where you could spam buttons and the other menu will bleed out.\n13. Implement In-Duel Deck Browser, you can check in"
     }
   ],
   "platformVersions": {
-    "windows": "1.4.4.1",
+    "windows": "1.4.4.2",
     "android": "1.4.4.1",
     "linux": "1.4.4.1",
     "macos": "1.4.4.1"
