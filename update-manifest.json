@@ -2,7 +2,7 @@
   "version": "1.4.4.2",
   "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.4.2",
   "message": "MDPro3 1.4.4.2 is available.",
-  "notes": "1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\n8. Update All Sound Files with new ones from MD.\n9. Fix Key Card Climax (By Reinen)\n10. Fixed a bug where you couldn't select any cards during the Popup.\n11. Fixed a bug where you could start a Match Alone, now it requires both players.\n12. Fixed a bug where you could spam buttons and the other menu will bleed out.\n13. Implement In-Duel Deck Browser, you can check in",
+  "notes": "1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\nRead more on the Requiem Server. $$",
   "downloads": [
     {
       "platform": "windows",
@@ -71,7 +71,7 @@
       "fromVersion": "1.4.4.1",
       "toVersion": "1.4.4.2",
       "groupId": "android-1.4.4.2",
-      "message": "MDPro3 1.4.4.2 is available.\n\n1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\n8. Update All Sound Files with new ones from MD.\n9. Fix Key Card Climax (By Reinen)\n10. Fixed a bug where you couldn't select any cards during the Popup.\n11. Fixed a bug where you could start a Match Alone, now it requires both players.\n12. Fixed a bug where you could spam buttons and the other menu will bleed out.\n13. Implement In-Duel Deck Browser, you can check in"
+      "message": "MDPro3 1.4.4.2 is available.\n\n1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\nRead more on the Requiem Server. $$"
     },
     {
       "platform": "android",
@@ -82,7 +82,7 @@
       "fromVersion": "1.4.4.1",
       "toVersion": "1.4.4.2",
       "groupId": "android-1.4.4.2",
-      "message": "MDPro3 1.4.4.2 is available.\n\n1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\n8. Update All Sound Files with new ones from MD.\n9. Fix Key Card Climax (By Reinen)\n10. Fixed a bug where you couldn't select any cards during the Popup.\n11. Fixed a bug where you could start a Match Alone, now it requires both players.\n12. Fixed a bug where you could spam buttons and the other menu will bleed out.\n13. Implement In-Duel Deck Browser, you can check in"
+      "message": "MDPro3 1.4.4.2 is available.\n\n1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\nRead more on the Requiem Server. $$"
     }
   ],
   "platformVersions": {
