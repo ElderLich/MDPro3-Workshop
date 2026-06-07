@@ -159,11 +159,33 @@
       "fromVersion": "1.4.5",
       "toVersion": "1.4.5.1",
       "message": "MDPro3 1.4.5.1 is available.\n\n1. Fixed a Problem in Blanc Cards\n2. Added a Sacred Beasts Bot by Reinen\n3. Read more on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5.1/MDPro3-android-patch-1.4.5-to-1.4.5.1.zip",
+      "label": "Android data patch",
+      "packageKind": "patch",
+      "packageTarget": "data",
+      "fromVersion": "1.4.5",
+      "toVersion": "1.4.5.1",
+      "groupId": "android-1.4.5.1",
+      "message": "MDPro3 1.4.5.1 is available.\n\n1. Fixed a Problem in Blanc Cards\n2. Added a Sacred Beasts Bot by Reinen\n3. Read more on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5.1/MDPro3_V1.4.5.1.apk",
+      "label": "Android app package",
+      "packageKind": "patch",
+      "packageTarget": "app",
+      "fromVersion": "1.4.5",
+      "toVersion": "1.4.5.1",
+      "groupId": "android-1.4.5.1",
+      "message": "MDPro3 1.4.5.1 is available.\n\n1. Fixed a Problem in Blanc Cards\n2. Added a Sacred Beasts Bot by Reinen\n3. Read more on the Requirem Server. Senator John\u2122"
     }
   ],
   "platformVersions": {
     "windows": "1.4.5",
-    "android": "1.4.5",
+    "android": "1.4.5.1",
     "linux": "1.4.5.1",
     "macos": "1.4.5"
   },
