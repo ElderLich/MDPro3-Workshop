@@ -1,8 +1,8 @@
 {
-  "version": "1.4.5.1",
-  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.5.1",
-  "message": "MDPro3 1.4.5.1 is available.",
-  "notes": "1. Fixed a Problem in Blanc Cards\n2. Added a Sacred Beasts Bot by Reinen\n3. Read more on the Requirem Server. Senator John\u2122",
+  "version": "1.4.5.2",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.5.2",
+  "message": "MDPro3 1.4.5.2 is available.",
+  "notes": "1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Read more on the Requirem Server. Senator John\u2122",
   "downloads": [
     {
       "platform": "windows",
@@ -199,10 +199,19 @@
       "fromVersion": "1.4.5",
       "toVersion": "1.4.5.1",
       "message": "MDPro3 1.4.5.1 is available.\n\n1. Fixed a Problem in Blanc Cards\n2. Added a Sacred Beasts Bot by Reinen\n3. Read more on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "windows",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5.2/MDPro3-win-patch-1.4.5.1-to-1.4.5.2.zip",
+      "label": "Windows patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.5.1",
+      "toVersion": "1.4.5.2",
+      "message": "MDPro3 1.4.5.2 is available.\n\n1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Read more on the Requirem Server. Senator John\u2122"
     }
   ],
   "platformVersions": {
-    "windows": "1.4.5.1",
+    "windows": "1.4.5.2",
     "android": "1.4.5.1",
     "linux": "1.4.5.1",
     "macos": "1.4.5.1"
