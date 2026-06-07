@@ -141,13 +141,22 @@
       "fromVersion": "1.4.4.2",
       "toVersion": "1.4.5",
       "message": "MDPro3 1.4.5 is available.\n\n1. Fix: Harden Native Load And Watch Parsing for YgoServer\n2. Rolled Back the Super Poly and Card Materials\n3. Fixed a bug when you would select the text from \"Cut-Ins\" or \"Mates\" and then on search box, it will shift the text box.\n4. Fixed Ash Blossom Effect\n5. Added a new Portal UI for Puzzles\n6. Read more on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "macos",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5/MDPro3-macos-patch-1.4.4.2-to-1.4.5.tar.gz",
+      "label": "macOS patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.4.2",
+      "toVersion": "1.4.5",
+      "message": "MDPro3 1.4.5 is available.\n\n1. Fix: Harden Native Load And Watch Parsing for YgoServer\n2. Rolled Back the Super Poly and Card Materials\n3. Fixed a bug when you would select the text from \"Cut-Ins\" or \"Mates\" and then on search box, it will shift the text box.\n4. Fixed Ash Blossom Effect\n5. Added a new Portal UI for Puzzles\n6. Read more on the Requirem Server. Senator John\u2122"
     }
   ],
   "platformVersions": {
     "windows": "1.4.5",
     "android": "1.4.5",
     "linux": "1.4.5",
-    "macos": "1.4.4.2"
+    "macos": "1.4.5"
   },
   "platformBaseVersions": {
     "default": "1.4.4",
