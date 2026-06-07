@@ -1,8 +1,8 @@
 {
-  "version": "1.4.4.2",
-  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.4.2",
-  "message": "MDPro3 1.4.4.2 is available.",
-  "notes": "1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\nRead more on the Requiem Server. $$",
+  "version": "1.4.5",
+  "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.5",
+  "message": "MDPro3 1.4.5 is available.",
+  "notes": "1. Fix: Harden Native Load And Watch Parsing for YgoServer\n2. Rolled Back the Super Poly and Card Materials.\n3. Fixed a bug when you would select the text from",
   "downloads": [
     {
       "platform": "windows",
@@ -101,10 +101,19 @@
       "fromVersion": "1.4.4.1",
       "toVersion": "1.4.4.2",
       "message": "MDPro3 1.4.4.2 is available.\n\n1. Fixed Blue-Eyes Final Attack\n2. Fixed the Default Profile Frame now Showing\n3. Disabled the two Custom Fields, as they are not comptatible anymore.\n4. Disabled the following Duel Links Chars: SN0402, SN0403, SN0426, SN0440, and SN0607.\n5. Added new Binaries for Android, forgot last time. :P\n6. Fixed 5 Broken .json files that are used by Windbot and it could lead to Crashing the game.\n7. Fixed macOS Bots, due to mac not liking a .json format, i had to rewrite it.\nRead more on the Requiem Server. $$"
+    },
+    {
+      "platform": "windows",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5/MDPro3-win-patch-1.4.4.2-to-1.4.5.zip",
+      "label": "Windows patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.4.2",
+      "toVersion": "1.4.5",
+      "message": "MDPro3 1.4.5 is available.\n\n1. Fix: Harden Native Load And Watch Parsing for YgoServer\n2. Rolled Back the Super Poly and Card Materials.\n3. Fixed a bug when you would select the text from"
     }
   ],
   "platformVersions": {
-    "windows": "1.4.4.2",
+    "windows": "1.4.5",
     "android": "1.4.4.2",
     "linux": "1.4.4.2",
     "macos": "1.4.4.2"
