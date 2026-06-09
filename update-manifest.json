@@ -208,11 +208,33 @@
       "fromVersion": "1.4.5.1",
       "toVersion": "1.4.5.2",
       "message": "MDPro3 1.4.5.2 is available.\n\n1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Added a translated \"Pack\" in the deck editor, but it's WIP, need to translate the rest\n4. Read more on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5.2/MDPro3-android-patch-1.4.5.1-to-1.4.5.2.zip",
+      "label": "Android data patch",
+      "packageKind": "patch",
+      "packageTarget": "data",
+      "fromVersion": "1.4.5.1",
+      "toVersion": "1.4.5.2",
+      "groupId": "android-1.4.5.2",
+      "message": "MDPro3 1.4.5.2 is available.\n\n1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Added a translated \"Pack\" in the deck editor, but it's WIP, need to translate the rest\n4. Read more on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "android",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.5.2/MDPro3_V1.4.5.2.apk",
+      "label": "Android app package",
+      "packageKind": "patch",
+      "packageTarget": "app",
+      "fromVersion": "1.4.5.1",
+      "toVersion": "1.4.5.2",
+      "groupId": "android-1.4.5.2",
+      "message": "MDPro3 1.4.5.2 is available.\n\n1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Added a translated \"Pack\" in the deck editor, but it's WIP, need to translate the rest\n4. Read more on the Requirem Server. Senator John\u2122"
     }
   ],
   "platformVersions": {
     "windows": "1.4.5.2",
-    "android": "1.4.5.1",
+    "android": "1.4.5.2",
     "linux": "1.4.5.1",
     "macos": "1.4.5.1"
   },
