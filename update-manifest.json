@@ -2,7 +2,7 @@
   "version": "1.4.5.2",
   "releasePageUrl": "https://github.com/ElderLich/MDPro3-Workshop/releases/tag/v1.4.5.2",
   "message": "MDPro3 1.4.5.2 is available.",
-  "notes": "1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Read more on the Requirem Server. Senator John\u2122",
+  "notes": "1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Added a translated \"Pack\" in the deck editor, but it's WIP, need to translate the rest\n4. Read more on the Requirem Server. Senator John\u2122",
   "downloads": [
     {
       "platform": "windows",
@@ -207,7 +207,7 @@
       "packageKind": "patch",
       "fromVersion": "1.4.5.1",
       "toVersion": "1.4.5.2",
-      "message": "MDPro3 1.4.5.2 is available.\n\n1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Read more on the Requirem Server. Senator John\u2122"
+      "message": "MDPro3 1.4.5.2 is available.\n\n1. Fixed Voice Chars could not be loaded\n2. Fixed various cosmetics that could not be loaded\n3. Added a translated \"Pack\" in the deck editor, but it's WIP, need to translate the rest\n4. Read more on the Requirem Server. Senator John\u2122"
     }
   ],
   "platformVersions": {
