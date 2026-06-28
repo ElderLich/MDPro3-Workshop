@@ -288,13 +288,22 @@
       "fromVersion": "1.4.5.2",
       "toVersion": "1.4.6",
       "message": "MDPro3 1.4.6 is available.\n\n1. Removed the Github Updater for the Voices, they will be shipped every patch, if there are is something to update.\n2. Updated the Card Materials to use the latest Shaders from MD\n3. Every OF card that does have a normal artwork, not the full art card render, will get the OF border.\n4. Fixed the Thai missing IDS folder.\n5. The Low Deck Count warning would start at 10 cards and not only below.\n6. Read the rest on the Requirem Server. Senator John\u2122"
+    },
+    {
+      "platform": "macos",
+      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.6/MDPro3-macos-patch-1.4.5.2-to-1.4.6.tar.gz",
+      "label": "macOS patch",
+      "packageKind": "patch",
+      "fromVersion": "1.4.5.2",
+      "toVersion": "1.4.6",
+      "message": "MDPro3 1.4.6 is available.\n\n1. Removed the Github Updater for the Voices, they will be shipped every patch, if there are is something to update.\n2. Updated the Card Materials to use the latest Shaders from MD\n3. Every OF card that does have a normal artwork, not the full art card render, will get the OF border.\n4. Fixed the Thai missing IDS folder.\n5. The Low Deck Count warning would start at 10 cards and not only below.\n6. Read the rest on the Requirem Server. Senator John\u2122"
     }
   ],
   "platformVersions": {
     "windows": "1.4.6",
     "android": "1.4.6",
     "linux": "1.4.6",
-    "macos": "1.4.5.2"
+    "macos": "1.4.6"
   },
   "platformBaseVersions": {
     "default": "1.4.4",
