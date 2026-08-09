@@ -311,19 +311,6 @@
       "message": "MDPro3 1.4.6.1 data update is available.\n\n1. Updated Card Pool for BETB, CORI-EN, LPG2 and some misc cards.\n2. Read the rest on the Requirem Server. Senator John\u2122"
     },
     {
-      "platform": "android",
-      "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.6.1/MDPro3-android-data-patch-1.4.6-to-1.4.6.1.zip",
-      "label": "Android data patch",
-      "packageKind": "patch",
-      "toVersion": "1.4.6.1",
-      "fileName": "MDPro3-android-data-patch-1.4.6-to-1.4.6.1.zip",
-      "packageTarget": "data",
-      "fromVersion": "1.4.6",
-      "sizeBytes": 140171045,
-      "sha256": "3ce1badc2ab0b72b9bc15af4f421e4b26ef6195ca77370a8a814cab8105f1280",
-      "message": "MDPro3 1.4.6.1 data update is available.\n\n1. Updated Card Pool for BETB, CORI-EN, LPG2 and some misc cards.\n2. Read the rest on the Requirem Server. Senator John\u2122"
-    },
-    {
       "platform": "linux",
       "url": "https://github.com/ElderLich/MDPro3-Workshop/releases/download/v1.4.6.1/MDPro3-linux-data-patch-1.4.6-to-1.4.6.1.tar.gz",
       "label": "Linux data patch",
